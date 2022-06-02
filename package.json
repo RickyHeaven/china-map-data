@@ -1,6 +1,6 @@
 {
   "name": "china-map-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Data of China for Echarts map.",
   "main": "index.js",
   "scripts": {
