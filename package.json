@@ -1,0 +1,26 @@
+{
+  "name": "china-map-data",
+  "version": "1.0.0",
+  "description": "Data of China for Echarts map.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickyHeaven/china-map-data.git"
+  },
+  "keywords": [
+    "Echarts",
+    "map",
+    "China",
+    "province",
+    "district"
+  ],
+  "author": "RickyHeaven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickyHeaven/china-map-data/issues"
+  },
+  "homepage": "https://github.com/RickyHeaven/china-map-data#readme"
+}
